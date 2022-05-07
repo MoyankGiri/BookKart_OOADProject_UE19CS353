@@ -24,7 +24,9 @@ The project makes use of HTML + CSS based web pages for the frontend which are s
 The project additionally makes use of the SQL database which will be used to store application data such as Book details etc.
 
 
-Team Members:
+## Team Members:
 Moyank Giri - PES1UG19CS280
+
 Parimala S - PES1UG19CS323
+
 Pragna Bhargava - PES1UG19CS332
